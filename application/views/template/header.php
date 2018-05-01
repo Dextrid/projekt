@@ -11,8 +11,7 @@
 
     <!-- Bootstrap core CSS -->
 
-    <link href="<?php echo
-    base ?>assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
 <!-- Bootstrap theme -->
     <link href="<?php echo base_url();?>assets/css/bootstrap-theme.min.css" rel="stylesheet">
 
